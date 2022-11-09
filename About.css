@@ -1,0 +1,193 @@
+﻿.about .content-30{
+    width:70%;
+}
+
+.about .content-100 {
+    width: 70%;
+    font-weight: 200;
+    font-size: 10pt;
+    margin-left: 19%;
+    margin-top: 100px;
+    line-height: 1.20;
+}
+
+
+
+.img-factory {
+    background-image: url(imgs/2_about_img.png);
+    height: 290px;
+    background-size: 100%;
+}
+
+.green {
+    background-color: #58623F;
+    color: white;
+    padding-bottom: 30px;
+    display: inline-block;
+    width: 100%;
+    float: none;
+    margin-top: -5px;
+}
+
+.img-mission {
+    width: 100px;
+    float: left;
+}
+
+.mission {
+    margin-top: 50px;
+    margin-left: 12%;
+    width: 80%;
+    display: inline-block;
+}
+
+.mission-detail {
+    width: 80%;
+    float: left;
+    margin-left: 25px;
+}
+
+.mission-detail-title {
+    font-size: 18pt;
+    font-family: GothicA1-Bold;
+    color: #F3EFBF;
+    text-transform: uppercase;
+}
+
+.mission-detail .content {
+    font-weight: 200;
+    font-size: 10pt;
+    margin-top: 10px;
+    line-height: 1.20;
+    float: left;
+    width: 70%;
+}
+
+.people {
+    margin-left: 12%;
+    display: inline-block;
+    margin-top: 20px;
+    width: 80%
+}
+
+.subtitle {
+    font-family: 'GothicA1-extralight';
+    font-size: 37pt;
+}
+
+.people .dash {
+    margin-left: 0px;
+    border-top: 4.5px solid;
+    width: 2%;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+
+.pictures { /* display: flex; */
+    clear: left;
+    margin-top: 20px;
+    width: 80%;
+}
+
+.picture-circle {
+    width: 50%;
+    z-index: 9000;
+    margin-left: 65px;
+    position: relative;
+}
+
+.picture-rectangle {
+    width: 90%;
+    margin-top: -80px;
+    z-index: -100;
+}
+
+.picture-title {
+    margin-top: -105px;
+    /* margin-left: 18px; */
+    font-family: 'GothicA1-Bold';
+    font-size: 10pt;
+    text-align: center;
+    width: 90%;
+}
+
+.picture-text {
+    font-family: gothica1-regular;
+    font-size: 8pt;
+    width: 100%;
+    text-align: center;
+    /* margin-left: 5px; */
+    margin-top: 5px;
+    width: 90%;
+}
+
+
+
+.facility {
+    margin-left: 12%;
+    display: inline-block;
+    margin-top: 80px;
+    width: 80%
+}
+
+    .facility .dash {
+        margin-left: 0px;
+        border-top: 4.5px solid;
+        width: 2%;
+        margin-top: -5px;
+        margin-bottom: 10px;
+    }
+
+
+
+.vertical{
+    width:16%;
+}
+
+.horizontal {
+    width: 40%;
+    margin-left:10px;
+}
+.facility-imgs{
+    display:flex;
+    margin-top:20px;
+}
+
+.facility-title {
+    font-family: gothica1-bold;
+    margin-bottom: 5px;
+}
+
+.facility-text {
+    font-size: 8pt;
+}
+
+.patents {
+    margin-left: 12%;
+    display: inline-block;
+    margin-top: 30px;
+    width: 80%
+}
+
+
+
+    .patents .dash {
+        margin-left: 0px;
+        border-top: 4.5px solid;
+        width: 2%;
+        margin-top: -5px;
+        margin-bottom: 10px;
+    }
+
+.header {
+    font-family: gothicA1-bold;
+    margin-top: 20px;
+}
+
+.patents .content-10 {
+    font-weight: 200;
+    font-size: 9pt;
+    margin-left: 0px;
+    margin-top: 10px;
+    line-height: 1.30;
+}

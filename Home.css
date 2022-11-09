@@ -1,0 +1,204 @@
+﻿
+
+
+
+
+
+
+div.banner {
+    background-image: url('imgs/3_banner_ol.png');
+    background-repeat:no-repeat;
+    height: 490px;
+    
+    background-size: 100%;
+}
+
+.banner .title {
+    padding-top: 40px;
+    font-weight: 100;
+    font-size: 80pt;
+    color: #F3EFBF;
+    margin-left: 19%;
+    margin-top:28px;
+    width: 200px;
+    line-height: 85%;
+    font-family: GothicA1-Thin
+}
+
+.highlight {
+    margin-left: 19%;
+    width: 650px;
+    font-size: 16pt;
+    margin-top: 25px;
+    color: white;
+    font-family: 'GothicA1-Bold'
+}
+
+.article {
+    margin-left: 19%;
+    width: 650px;
+    font-size: 12pt;
+    margin-top: 5px;
+    color: white;
+}
+
+.view-more {
+    font-family: 'GothicA1-semibold';
+    height: 50px;
+    width: 158px;
+    background-color: #A99A00;
+    margin-left: 19%;
+    margin-top: 75px;
+    
+    font-size: 16pt;
+    text-align: center;
+}
+
+    .view-more a, .view-more a:visited {
+        /* padding-top: 50px; */
+        top: 10px;
+        position: relative;
+        text-decoration: none;
+        color: #F3EFBF;
+    }
+
+.footer-left {
+    width: 30%;
+    margin-left: 19%;
+    color: #ddd;
+    font-size: 10pt
+}
+
+
+
+
+
+
+
+
+
+.project .content-30: {
+    /* padding-top: 40px; */
+    font-weight: 200;
+    font-size: 10pt;
+    margin-top: 30px;
+    margin-left: 30%;
+    line-height: 1.20;
+    width: 60%;
+    float: left;
+}
+
+.project .content-90 {
+    /* padding-top: 40px; */
+    font-weight: 200;
+    font-size: 10pt;
+    margin-left: 30%;
+    margin-top: 90px;
+    line-height: 1.20;
+}
+
+
+.content-img {
+
+    float: left;
+    width: 20%;
+    margin-top: -110px;
+}
+
+
+
+.left {
+    float: left;
+}
+
+
+
+
+
+
+.product .title {
+    margin-left: 30%
+}
+
+.product .dash {
+    margin-left: 30%
+}
+
+.product .content-30 {
+    margin-left: 30%
+}
+
+
+
+
+.project .title{
+    margin-left:30%
+}
+
+.project .dash{
+    margin-left: 30%
+}
+
+.project .content-30 {
+    margin-left: 30%
+}
+
+.product .view-more {
+    margin-left: 0px
+}
+
+.project .view-more {
+    margin-left: 0px
+}
+
+.products-img {
+    width: 40%;
+    background-image: url('imgs/home_products-100.jpg');
+    background-repeat: no-repeat;
+    height: 383px;
+   
+}
+
+.product {
+    width: 60%;
+    background-color: white;
+    color: black;
+    height: 383px;
+   
+}
+
+.project {
+    width: 60%;
+    background-color: #c0c27b;
+    color: white;
+    height: 339px;
+    margin-top:-48px;
+}
+
+
+.products .title{
+    margin-left:30%
+}
+
+.project-img {
+    width: 40%;
+    background-image: url('imgs/home_projects-100.jpg');
+    background-repeat: no-repeat;
+    height: 339px;
+    margin-top: -48px;
+}
+
+.about-us {
+    background-color: #58623F;
+    height: 300px
+}
+
+    .about-us.content-40 {
+        width: 40%;
+        margin-left: 19%
+    }
+
+.about-us.content-50{
+    margin-left:19%
+
+}

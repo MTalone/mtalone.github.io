@@ -1,0 +1,25 @@
+﻿.projectsheet {
+    width: 100%;
+    background-color: #DEE08E;margin-bottom:20px;
+}
+.column {
+    width: 25%;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 20px
+}
+.header {
+    font-family: GothicA1-Bold;
+    font-size: 16px;
+    margin-left:20px;
+    margin-top:10px;
+}
+.content {
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.column.middle{
+    border:1px solid;
+   
+}

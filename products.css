@@ -1,0 +1,82 @@
+﻿div.banner {
+    background-image: url('imgs/3_banner_ol.png');
+    height: 490px;
+    margin-top: -20px;
+    background-size: 100%;
+}
+
+.banner .title {
+    padding-top: 40px;
+    font-weight: 100;
+    font-size: 80pt;
+    color: #F3EFBF;
+    margin-left: 19%;
+    width: 200px;
+    line-height: 85%;
+    font-family: GothicA1-Thin
+}
+
+.highlight {
+    margin-left: 19%;
+    width: 650px;
+    font-size: 12pt;
+    margin-top: 25px;
+    color: white;
+    font-family: 'GothicA1-Bold';
+    line-height:105%
+}
+
+.article {
+    margin-left: 19%;
+    width: 650px;
+    font-size: 10pt;
+    margin-top: 5px;
+    color: white;
+}
+
+.view-more {
+    font-family: 'GothicA1-semibold';
+    height: 50px;
+    width: 158px;
+    background-color: #A99A00;
+    margin-left: 19%;
+    margin-top: 25px;
+    color: #F3EFBF;
+    font-size: 16pt;
+    text-align: center;
+}
+
+
+.dash
+{
+    margin-left: 19%;
+    border-top: 4.5px solid;
+    width: 2.5%;
+    margin-top: 5px;
+}
+
+.title {
+    font-family: 'GothicA1-extralight';
+    margin-top:0px;
+    padding-top:0px;
+    font-size: 30pt;
+    margin-left: 19%;   
+    width: 50%;
+    line-height: 85%
+}
+.highlight {
+    color: black;
+    width:60%
+}
+
+.capsules {
+    width: 25%;
+    margin-left: 19%;
+    float:left;
+}
+
+.product-legend{
+    float: left;
+    margin-top: 1px;
+    margin-left: 15px;
+}
