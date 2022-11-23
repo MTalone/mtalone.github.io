@@ -50,7 +50,7 @@ div.menu-shadow-1 {
     background-size: 100%;
     width: 100%;
     z-index: 100;
-    margin-top:40px;
+    margin-top:55px;
 }
 div.menu-shadow-2 {
     background-color: #d7d7d7;
@@ -66,7 +66,7 @@ div.menu-shadow-2 {
     height: 0.5px;
     background-size: 100%;
     width: 100%;
-    margin-top: 2px;
+    margin-top: 0px;
     z-index: 100;
 }
 
@@ -214,6 +214,12 @@ a.menu-item.selected, .selected {
     background-color: #000000;
     clear: left;
     padding-top: 10px;
+    color: #ddd;
 }
 
-
+.footer-left {
+    width: 30%;
+    margin-left: 19%;
+    color: #ddd;
+    font-size: 10pt
+}
