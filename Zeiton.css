@@ -223,3 +223,16 @@ a.menu-item.selected, .selected {
     color: #ddd;
     font-size: 10pt
 }
+.legend {
+    float: left;
+    margin-top: 1px;
+    margin-left: 15px;
+    font-family:GothicA1-Bold
+}
+
+.bold {
+    font-size: 10pt;
+    margin-top: 25px;
+    width: 40%;
+    font-family: 'GothicA1-Bold'
+}
